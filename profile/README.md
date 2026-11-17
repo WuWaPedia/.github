@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="20260219-syurikenmaru.png" alt="logo" width="96" />
+<a href="https://wuwa.huijiwiki.com/wiki/首页"><img src="https://raw.githubusercontent.com/WuWaPedia/WuWaFontConverter/main/build/Wuwapedia.png" alt="鸣潮百科" width="400" /></a>
 
 **《[鸣潮百科](https://wuwa.huijiwiki.com)》协作组**<br>(_[WuWaPedia](https://wuwa.huijiwiki.com)_ Group)
 
